@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0.0000 0.0000 106.2000 149.0625" width="106.2000mm" height="149.0625mm">
+<polygon points="34.0500,5.0000 5.0000,5.0000 5.0000,144.0625 101.2000,144.0625 101.2000,5.0000 72.1500,5.0000 72.1500,12.5000 93.7000,12.5000 93.7000,136.5625 12.5000,136.5625 12.5000,12.5000 34.0500,12.5000" style="fill:none;stroke-width:0.050000mm;stroke:black"/>
+<circle cx="9.0000" cy="9.0000" r="1.7500" style="fill:none;stroke-width:0.050000mm;stroke:black"/>
+<circle cx="97.2000" cy="9.0000" r="1.7500" style="fill:none;stroke-width:0.050000mm;stroke:black"/>
+<circle cx="9.0000" cy="74.5313" r="1.7500" style="fill:none;stroke-width:0.050000mm;stroke:black"/>
+<circle cx="97.2000" cy="74.5313" r="1.7500" style="fill:none;stroke-width:0.050000mm;stroke:black"/>
+<circle cx="9.0000" cy="140.0625" r="1.7500" style="fill:none;stroke-width:0.050000mm;stroke:black"/>
+<circle cx="97.2000" cy="140.0625" r="1.7500" style="fill:none;stroke-width:0.050000mm;stroke:black"/>
+</svg>
